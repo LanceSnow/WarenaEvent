@@ -6,6 +6,7 @@ Take a test on `bsct` PLS.
 Thank you!
 
 # Step
+[step](./WarenaEvent.jpg)
 1. install npm packages.
     ```npm i```
 
