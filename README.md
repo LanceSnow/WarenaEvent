@@ -1,7 +1,8 @@
 # Warena Event
 This project provides scripts for this event.
-make sure the `current_network` is bsct or bsc.
-check the address of smart contracts.
+Make sure the `current_network` is `bsct` or `bsc`.
+Check the address of smart contracts.
+Take a test on `bsct` PLS.
 Thank you!
 
 # Step
